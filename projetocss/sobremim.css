@@ -6,7 +6,7 @@ body {
     margin-right: 0;
     margin-left: 0;
     background: url(/Primeiro-Portfolio/img/nuvempreto.avif) center center no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     background-attachment: fixed;
 }
 
