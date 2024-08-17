@@ -12,7 +12,7 @@ Esse projeto representa muito mais do que apenas código para mim. Ele marca o i
 
 ## Demonstração
 Caso você queira uma demonstração mais detalhada, [Clique Aqui](https://mikelj917.github.io/Primeiro-Portfolio/)
-![Imagem do Portfólio](./img/linktreeimg.png)(https://mikelj917.github.io/Primeiro-Portfolio/)
+![Imagem do Portfólio](./img/linktreeimg.png)
 
 ## Tecnologias Utilizadas
 
